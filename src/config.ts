@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://gopikrishtummalaold.github.io/", // replace this with your deployed domain
+  website: "https://gopikrishtummala.github.io/", // replace this with your deployed domain
   author: "Gopi Krishna Tummala",
-  profile: "https://gopikrishtummalaold.github.io/",
+  profile: "https://gopikrishtummala.github.io/",
   desc: "Senior Machine Learning Engineer @ Adobe | PhD | Ex-Qualcomm | Ex-Zoox | IIT-Madras",
   title: "Gopi Krishna Tummala",
   ogImage: "astropaper-og.jpg",
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: false,
     text: "Edit page",
-    url: "https://github.com/gopikrishtummalaold/gopikrishtummalaold.github.io/edit/main/astro-paper/",
+    url: "https://github.com/gopikrishtummala/gopikrishtummala.github.io/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
