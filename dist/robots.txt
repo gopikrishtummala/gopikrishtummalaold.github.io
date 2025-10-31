@@ -1,5 +1,0 @@
-
-User-agent: *
-Allow: /
-
-Sitemap: https://gopikrishtummalaold.github.io/sitemap-index.xml
